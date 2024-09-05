@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 1,
+        "Type": "item",
+        "Name": "Sword of Valor",
+        "Level": 5,
+        "Description": "A legendary sword that shines with a bright light."
+    },
+    {
+        "ID": 2,
+        "Type": "item",
+        "Name": "Shield of Courage",
+        "Level": 4,
+        "Description": "A sturdy shield that has protected many warriors."
+    },
+    {
+        "ID": 3,
+        "Type": "item",
+        "Name": "Potion of Healing",
+        "Level": 1,
+        "Description": "A potion that restores health."
+    }
+]
+

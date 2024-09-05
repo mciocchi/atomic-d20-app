@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 1,
+        "Type": "skill",
+        "Name": "Sword Mastery",
+        "Level": 5,
+        "Description": "Expertise in sword fighting."
+    },
+    {
+        "ID": 2,
+        "Type": "skill",
+        "Name": "Stealth",
+        "Level": 3,
+        "Description": "Ability to move unseen and unheard."
+    },
+    {
+        "ID": 3,
+        "Type": "skill",
+        "Name": "Archery",
+        "Level": 4,
+        "Description": "Proficiency with bow and arrow."
+    }
+]
+

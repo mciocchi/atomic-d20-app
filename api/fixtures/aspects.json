@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 1,
+        "Type": "aspect",
+        "Name": "Bravery",
+        "Level": 4,
+        "Description": "Displays courage in the face of danger."
+    },
+    {
+        "ID": 2,
+        "Type": "aspect",
+        "Name": "Wisdom",
+        "Level": 5,
+        "Description": "Possesses great knowledge and insight."
+    },
+    {
+        "ID": 3,
+        "Type": "aspect",
+        "Name": "Strength",
+        "Level": 3,
+        "Description": "Exhibits physical power and endurance."
+    }
+]
+

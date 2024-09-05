@@ -1,0 +1,14 @@
+[
+    {
+        "ID": 1,
+        "Type": "character",
+        "Name": "John Doe",
+        "Level": 5,
+        "Description": "A brave adventurer.",
+        "Aspects": [1, 2],
+        "Skills": [1, 3],
+        "PracticedManeuvers": [1],
+        "Inventory": [1, 2]
+    }
+]
+

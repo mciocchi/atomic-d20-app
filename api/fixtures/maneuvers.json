@@ -1,0 +1,24 @@
+[
+    {
+        "ID": 1,
+        "Type": "practiced_maneuver",
+        "Name": "Whirlwind Slash",
+        "Level": 4,
+        "Description": "A rapid spinning attack hitting all nearby enemies."
+    },
+    {
+        "ID": 2,
+        "Type": "practiced_maneuver",
+        "Name": "Shield Bash",
+        "Level": 2,
+        "Description": "A powerful strike with a shield that stuns the target."
+    },
+    {
+        "ID": 3,
+        "Type": "practiced_maneuver",
+        "Name": "Leap Attack",
+        "Level": 3,
+        "Description": "A high-jump attack that deals massive damage upon landing."
+    }
+]
+
